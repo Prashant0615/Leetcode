@@ -122,3 +122,21 @@ https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/1590267378
 
 #74. Search a 2D Matrix:-
 https://leetcode.com/problems/search-a-2d-matrix/submissions/1590261992
+
+#540. Single Element in a Sorted Array:-
+https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1589000819
+
+#33. Search in Rotated Sorted Array:-
+https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1588821518
+
+#2185. Merge Nodes in Between Zeros:-
+https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/1588320443
+
+#2089. Find Target Indices After Sorting Array:-
+https://leetcode.com/problems/find-target-indices-after-sorting-array/submissions/1588309217
+
+#34. Find First and Last Position of Element in Sorted Array:-
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1588290419
+
+#11. Container With Most Water:-
+https://leetcode.com/problems/container-with-most-water/submissions/1587174574
