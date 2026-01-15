@@ -110,3 +110,15 @@ https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/submi
 
 #989. Add to Array-Form of Integer:-
 https://leetcode.com/problems/add-to-array-form-of-integer/submissions/1592274524
+
+#43. Multiply Strings:-
+https://leetcode.com/problems/multiply-strings/submissions/1591277958
+
+#66. Plus One:-
+https://leetcode.com/problems/plus-one/submissions/1591264303
+
+#240. Search a 2D Matrix II:-
+https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/1590267378
+
+#74. Search a 2D Matrix:-
+https://leetcode.com/problems/search-a-2d-matrix/submissions/1590261992
